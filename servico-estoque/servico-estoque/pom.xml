@@ -4,7 +4,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <!-- SPRING BOOT PARENT (gera versões automáticas) -->
+    <!-- SPRING BOOT PARENT -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -14,7 +14,6 @@
 
     <groupId>org.sistema</groupId>
 
-    <!-- ALTERE ESTE artifactId PARA CADA SERVIÇO -->
     <artifactId>servico-estoque</artifactId>
     
     <version>1.0-SNAPSHOT</version>
@@ -25,7 +24,7 @@
 
     <dependencies>
 
-        <!-- Web básico + JSON -->
+        <!-- Web básico e JSON -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -37,13 +36,12 @@
             <artifactId>spring-boot-starter-amqp</artifactId>
         </dependency>
 
-        <!-- Caso queira logs mais simples -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-logging</artifactId>
         </dependency>
 
-        <!-- Gson (se quiser usar além do Jackson) -->
+        <!-- Gson -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>

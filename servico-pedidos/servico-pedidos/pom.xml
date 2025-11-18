@@ -40,7 +40,7 @@
             <artifactId>spring-boot-starter-logging</artifactId>
         </dependency>
 
-        <!-- JSON extra -->
+        <!-- JSON -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>

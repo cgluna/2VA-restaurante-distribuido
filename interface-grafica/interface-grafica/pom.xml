@@ -31,7 +31,7 @@
             <version>2.10.1</version>
         </dependency>
 
-        <!-- Spring Rabbit (melhor que amqp-client cru) -->
+        <!-- Spring Rabbit -->
         <dependency>
             <groupId>org.springframework.amqp</groupId>
             <artifactId>spring-rabbit</artifactId>
