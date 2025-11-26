@@ -1,0 +1,4 @@
+org\sistema\messaging\PedidosPublisher.class
+org\sistema\ServicoPedidosApplication.class
+org\sistema\config\RabbitConfigPedidos.class
+org\sistema\controller\PedidosController.class

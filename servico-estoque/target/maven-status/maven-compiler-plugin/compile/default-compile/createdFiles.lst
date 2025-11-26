@@ -1,0 +1,3 @@
+org\sistema\ServicoEstoqueApplication.class
+org\sistema\messaging\EstoqueConsumer.class
+org\sistema\config\RabbitConfigEstoque.class
