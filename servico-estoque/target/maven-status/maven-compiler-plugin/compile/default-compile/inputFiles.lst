@@ -1,6 +1,8 @@
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-estoque\src\main\java\org\sistema\dto\PedidoDTO.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-estoque\src\main\java\org\sistema\messaging\EstoqueConsumer.java
+C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-estoque\src\main\java\org\sistema\model\Produto.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-estoque\src\main\java\org\sistema\ServicoEstoqueApplication.java
+C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-estoque\src\main\java\org\sistema\repository\ProdutoRepository.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-estoque\src\main\java\org\sistema\dto\ItemDTO.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-estoque\src\main\java\org\sistema\config\RabbitConfigEstoque.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-estoque\src\main\java\org\sistema\messaging\EstoqueResponsePublisher.java
