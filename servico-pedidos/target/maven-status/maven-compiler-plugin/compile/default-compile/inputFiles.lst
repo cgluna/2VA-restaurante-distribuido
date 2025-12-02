@@ -6,5 +6,6 @@ C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-pedidos\src\main\ja
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-pedidos\src\main\java\org\sistema\messaging\PedidosPublisher.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-pedidos\src\main\java\org\sistema\model\ItemPedido.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-pedidos\src\main\java\org\sistema\dto\PedidoDTO.java
+C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-pedidos\src\main\java\org\sistema\messaging\EstoqueResponseConsumer.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-pedidos\src\main\java\org\sistema\repository\PedidoRepository.java
 C:\Users\gabri\Documents\2VA-restaurante-distribuido\servico-pedidos\src\main\java\org\sistema\config\RabbitConfigPedidos.java

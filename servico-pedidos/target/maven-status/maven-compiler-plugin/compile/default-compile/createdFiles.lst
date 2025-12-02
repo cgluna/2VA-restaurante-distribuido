@@ -1,9 +1,9 @@
 org\sistema\repository\PedidoRepository.class
 org\sistema\messaging\PedidosPublisher.class
 org\sistema\config\RabbitConfigPedidos.class
-org\sistema\model\Pedido.class
 org\sistema\controller\PedidosController.class
 org\sistema\dto\PedidoDTO.class
 org\sistema\model\ItemPedido.class
 org\sistema\ServicoPedidosApplication.class
 org\sistema\dto\ItemDTO.class
+org\sistema\model\Pedido.class

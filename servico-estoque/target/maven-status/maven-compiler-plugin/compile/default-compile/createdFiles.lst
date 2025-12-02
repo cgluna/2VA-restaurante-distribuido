@@ -1,5 +1,6 @@
+org\sistema\messaging\EstoqueResponsePublisher.class
+org\sistema\dto\PedidoDTO.class
+org\sistema\config\RabbitConfigEstoque.class
 org\sistema\messaging\EstoqueConsumer.class
 org\sistema\dto\ItemDTO.class
 org\sistema\ServicoEstoqueApplication.class
-org\sistema\dto\PedidoDTO.class
-org\sistema\config\RabbitConfigEstoque.class

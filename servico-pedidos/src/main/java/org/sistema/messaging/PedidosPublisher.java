@@ -13,7 +13,7 @@ public class PedidosPublisher {
     @Autowired
     private AmqpTemplate amqpTemplate;
 
-    // Envia um JSON (ou texto simples) para a fila de estoque
+    // Envia um JSON para a fila de estoque
     public void enviarPedido(PedidoDTO pedidoDTO) {
         amqpTemplate.convertAndSend(RabbitConfigPedidos.FILA_ESTOQUE, pedidoDTO);
         System.out.println("[PedidosPublisher] Enviado para fila.estoque: " + pedidoDTO);
